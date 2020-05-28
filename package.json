@@ -1,0 +1,29 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Sample emi-calculator-webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdinoo/nodejs-web-app.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "app"
+  ],
+  "author": "Dinesh Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdinoo/nodejs-web-app/issues"
+  },
+  "homepage": "https://github.com/sdinoo/nodejs-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
